@@ -12,15 +12,15 @@ I added lots of differnt file formats, wich is proably overkill but I hope it ma
 
 ## BOM
 
-| Item              | Price  | Quantity | Link | Notes |
-|-------------------|--------|----------|------|-------|
-| Fan               | $18.00 | 1        | Amazon.com: MEC0381V1-000U-G99 12V 10W 120MM Fan - 12038 12CM 3-Wire DC Cooling Fan | Very quiet, 138 CFM |
-| Filters           | $10.00 | 1        | https://www.amazon.com/PEETANG-Extractor-Activated-Carbon-Replacement/dp/B0DLSXGKSQ | Pack of 6 |
-| Power Supply      | $12.00 | 1        | https://www.amazon.com/Adapter-Charger-Replacement-Regulated-Transformer/dp/B0852HX9HV | 12V 2A |
-| Power Switch      | $0.00  | 1        | — | Already owned |
-| 3D Printed Parts  | $0.00  | 1        | — | Printed on Ender |
+| Item              | Price  | Quantity | Link                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Notes                                                |
+|-------------------|--------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|
+| Fan               | $18.00 | 1        | Amazon.com: MEC0381V1-000U-G99 12V 10W 120MM Fan - 12038 12CM 3-Wire DC Cooling Fan | Very quiet, 138 CFM, cheapest fan for its airflow     |
+| Filters (6-pack)  | $7.99  | 1        | https://www.amazon.com/Activated-Solder-Soldering-Extractor-130x130x10mm/dp/B0D6W1L64S | Pack of 6                                             |
+| Power Supply      | $4.00  | 1        | https://www.aliexpress.us/item/2251832775218443.html | 12V 1A                                                |
+| Power Switch      | $0.00  | 1        | —                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Already owned                                         |
+| 3D Printed Parts  | $0.00  | 1        | —                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Printed on Ender                                      |
 
-**Total: $40.00**
+**Total: $29.99**
 
 				
 Total	$40.00			
