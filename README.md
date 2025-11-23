@@ -6,7 +6,7 @@ I added lots of differnt file formats, wich is proably overkill but I hope it ma
 ## Features
 
 - **Holds up to 3 hot-swappable charcoal filters**
-- **High-power fan:** 140 CFM, 3000 RPM
+- **1 or 2 fans:** for 40 or 80 CFM
 - **Fully 3D-printable** as a single piece
 - **Integrated magnets** for attaching to metal workbenches
 
