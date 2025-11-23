@@ -28,5 +28,5 @@ Total	$40.00
 
 <img width="1923" height="1090" alt="Screen Shot 2025-11-14 at 1 21 41 PM" src="https://github.com/user-attachments/assets/144df044-dda5-41bb-887a-819e01fc6f57" />
 
-Made with love and opesourced by Jake Hopkins for Blueprint, a part of Hackclub!
+Made with love and opensourced by Jake Hopkins for Blueprint, a part of Hackclub!
 disclosure: chatgpt fomatted this since I don't normally mess with markdown files, but every single word is mine.
