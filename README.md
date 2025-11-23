@@ -24,7 +24,8 @@ I added lots of differnt file formats, wich is proably overkill but I hope it ma
 
 				
 Total	$40.00			
-<img width="642" height="495" alt="Screen Shot 2025-11-14 at 6 25 01 PM" src="https://github.com/user-attachments/assets/27c54978-dc0b-40fe-9d38-5f961eb76273" />
+<img width="1920" height="801" alt="fume_extractor_2025-Nov-22_04-01-25PM-000_CustomizedView13838601944_png" src="https://github.com/user-attachments/assets/53cd457d-93e1-4f16-8ec3-40d97c300249" />
+
 <img width="1923" height="1090" alt="Screen Shot 2025-11-14 at 1 21 41 PM" src="https://github.com/user-attachments/assets/144df044-dda5-41bb-887a-819e01fc6f57" />
 
 Made with love and opesourced by Jake Hopkins for Blueprint, a part of Hackclub!
